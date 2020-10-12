@@ -1,5 +1,5 @@
 # Sabi
-An encrypted Snapchat alternative. The app will be open source and private. Hopefully publishing to F-Droid/IzzyOnDroid and Play Store. Currently, the planned encryption method is PGP, though this is subject to change.
+An encrypted Snapchat alternative. The app will be open source and private. Hopefully publishing to F-Droid/IzzyOnDroid and Play Store. Currently, the planned encryption method is PGP, though this is subject to change. The server will remain closed source until a decent beta (or final) release is available.
 
 ## Guiding principles
  1. "hide" the encryption for ease of use
@@ -48,6 +48,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - multiple stories with limits on who can view
  - opt-in, privacy-friendly, ads
  - group chats
+ - website companion 
 
 #### Unlikely, but possible
  - public stories
@@ -55,4 +56,5 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - P2P/Bluetooth messaging
  - sort contacts (friends, acquaintances, family, etc)
  - multi-person viewing, must view at same time to see message
+ - multiple accounts
  
