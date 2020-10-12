@@ -22,6 +22,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - show for x time
  - replays
  - stories
+ - send to multiple people
  
 #### Accounts
  - accounts
