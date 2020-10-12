@@ -1,5 +1,11 @@
 # Sabi
-An encrypted Snapchat alternative
+An encrypted Snapchat alternative. App will be open source and private. Hopefully publishing to F-Droid/izzyondroid and Play Store.
+
+## Guiding princples
+ 1. "hide" the encryption for ease of use
+ 2. a beautiful user interface
+ 3. modular design for encryption so it can be changed later
+ 4. "minimum centralization" - information only stored on server as midpoint
 
 ## Planned features
 #### Text chat
@@ -37,3 +43,4 @@ An encrypted Snapchat alternative
  - multiple stories with limited people who can view
  - sort contacts (friends, acquaintances, family, etc)
  - streaks
+ - opt-in ads?
