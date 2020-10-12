@@ -44,3 +44,4 @@ An encrypted Snapchat alternative. App will be open source and private. Hopefull
  - sort contacts (friends, acquaintances, family, etc)
  - streaks
  - opt-in ads?
+ - P2P/bluetooth messaging
