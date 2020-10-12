@@ -23,6 +23,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - replays
  - stories
  - send to multiple people
+ - text labels
  
 #### Accounts
  - accounts
@@ -58,3 +59,45 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - multi-person viewing, must view at same time to see message
  - multiple accounts
  - iOS support (very unlikely)
+ 
+ ## Project roadmap (likely to change)
+ #### 0.0.1
+  - messaging
+  - encryption
+  
+ #### 0.0.2
+  - robust texting
+  - custom deletion time
+  
+ #### 0.0.3
+  - accounts
+  - account sharing via link
+  - account deletion
+  - account age in profile
+  
+ #### 0.1.0
+  - picture chats
+  
+ #### 0.1.1
+  - streaks
+  - sending/sent/viewed visual
+  
+ #### 0.1.2
+  - account sharing via QR code
+  - profile info (short paragraph)
+  - content warnings (nsfw, custom?)
+  
+ #### 0.1.3
+  - changeable time picture/chats are viewable for
+  - replays
+  - file uploads (images, maybe documents)
+  
+ #### 0.2
+  - stories
+  - custom app color
+  - lowercase/uppercase letters
+  
+ #### 0.2.1
+  - online status (green, yellow, white)
+  - account backup/moving (online and local)
+  - send to multiple people
