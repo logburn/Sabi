@@ -5,7 +5,7 @@ An encrypted Snapchat alternative. App will be open source and private. Hopefull
  1. "hide" the encryption for ease of use
  2. a beautiful user interface
  3. modular design for encryption so it can be changed later
- 4. "minimum centralization" - information only stored on server as midpoint
+ 4. "Minimum Viable Centralization" - information only stored on server as midpoint for stability
 
 ## Planned features
 #### Text chat
