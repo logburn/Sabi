@@ -57,4 +57,4 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - sort contacts (friends, acquaintances, family, etc)
  - multi-person viewing, must view at same time to see message
  - multiple accounts
- 
+ - iOS support (very unlikely)
