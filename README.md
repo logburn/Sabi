@@ -43,5 +43,5 @@ An encrypted Snapchat alternative. App will be open source and private. Hopefull
  - multiple stories with limited people who can view
  - sort contacts (friends, acquaintances, family, etc)
  - streaks
- - opt-in ads?
+ - opt-in privacy-friendly ads?
  - P2P/bluetooth messaging
