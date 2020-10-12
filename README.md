@@ -10,14 +10,14 @@ An encrypted Snapchat alternative
  - delete after x time
  - sending/send/viewed visual
 
-#### picture chats
+#### Picture chats
  - picture chats
  - content warnings (nsfw, custom?)
  - show for x time
  - replays
  - stories
  
-#### accounts
+#### Accounts
  - accounts
  - account sharing via link and QR code
  - profile info
@@ -27,7 +27,7 @@ An encrypted Snapchat alternative
  - account age
  - profile info (short paragraph)
 
-## under consideration
+## Under consideration
  - location sharing (live?)
  - public stories
  - account locking
