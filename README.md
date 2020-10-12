@@ -46,3 +46,4 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - streaks
  - opt-in privacy-friendly ads?
  - P2P/Bluetooth messaging
+ - group chats
