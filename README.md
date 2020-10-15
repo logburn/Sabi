@@ -2,10 +2,9 @@
 An encrypted Snapchat alternative. The app will be open source and private. Hopefully publishing to F-Droid/IzzyOnDroid and Play Store. Currently, I plan to use PGP for encryption. I may use XMPP as well but I'm not yet convinced it's the easiest solution, even if it is the "best". 
 
 ## Guiding principles
- 1. "hide" the encryption for ease of use
- 2. a beautiful user interface
- 3. modular design for encryption so it can be changed later
- 4. "Minimum Viable Centralization" - only store information on a server as a midpoint to increase stability
+ 1. user-friendly and simple UI
+ 2. "hide" the encryption for ease of use
+ 3. "Minimum Viable Centralization" - only store information on a server as a midpoint to increase stability
 
 ## Planned features
 #### Text chat
