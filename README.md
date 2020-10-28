@@ -5,6 +5,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  1. user-friendly and simple UI
  2. "hide" the encryption for ease of use
  3. "Minimum Viable Centralization" - only store information on a server as a midpoint to increase stability
+ 4. no reinventing the wheel
 
 ## Planned features
 #### Text chat
@@ -49,6 +50,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - opt-in, privacy-friendly, ads
  - group chats
  - website companion 
+ - time delayed sending
 
 #### Unlikely, but possible
  - public stories
