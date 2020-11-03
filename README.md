@@ -1,11 +1,17 @@
 # Sabi
-An encrypted Snapchat alternative. The app will be open source and private. Hopefully publishing to F-Droid/IzzyOnDroid and Play Store. Currently, I plan to use PGP for encryption. I may use XMPP as well but I'm not yet convinced it's the easiest solution, even if it is the "best". 
+An encrypted Snapchat alternative. The app will be open source and private. Hopefully publishing to F-Droid/IzzyOnDroid and Play Store. Currently, I plan to use PGP for encryption. I may use XMPP as well but I'm not yet convinced it's the easiest solution, even if it is the "best".
 
 ## Guiding principles
  1. user-friendly and simple UI
  2. "hide" the encryption for ease of use
  3. "Minimum Viable Centralization" - only store information on a server as a midpoint to increase stability
  4. no reinventing the wheel
+
+## Planned technologies & resources
+ - the impressive (and free!) (Undraw)[https://undraw.co/] library of SVGs
+ - PGP for both encryption and user verification
+ - backend undecided
+ - Kotlin for app development (no iOS support planned)
 
 ## Planned features
 #### Text chat
