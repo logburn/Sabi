@@ -8,7 +8,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  4. no reinventing the wheel
 
 ## Planned technologies & resources
- - the impressive (and free!) (Undraw)[https://undraw.co/] library of SVGs
+ - the impressive (and free!) [Undraw](https://undraw.co/) library of SVGs
  - PGP for both encryption and user verification
  - backend undecided
  - Kotlin for app development (no iOS support planned)
