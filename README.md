@@ -46,6 +46,7 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  - custom app color
  - lowercase/uppercase letters
  - streaks
+ - allow/disallow screenshots at conversation level
 
 ## Under consideration
 
