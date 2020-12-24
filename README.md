@@ -8,11 +8,16 @@ An encrypted Snapchat alternative. The app will be open source and private. Hope
  3. "Minimum Viable Centralization" - only store information on a server as a midpoint to increase stability
  4. no reinventing the wheel
 
-## Planned technologies & resources
+## Planned resources
  - the impressive (and free!) [Undraw](https://undraw.co/) library of SVGs
- - PGP for both encryption and user verification
- - backend undecided
- - Kotlin for app development (no iOS support planned)
+ - PGP for both encryption and user verification, using [KotlinPGP](https://github.com/Tlaster/KotlinPGP)
+ - [iconmonstr](https://iconmonstr.com/) icons
+ - either a custom backend or [ActivityPub](https://activitypub.rocks/) if I decide to "officially" federate
+ - [Parse](https://parseplatform.org/) application stack
+ - IF ads are encorporated, (which will always be fair and optional in some way), [Carbon](https://www.carbonads.net/) looks the best to me. options for ad models include:
+   - free ad-supported model with donation-based add-free version on play store (freemium) with ad-free F-Droid app
+   - opt-in ads (ads off by default, can turn on to support project)
+   - "pro" features (such as black-theme in addition to the free dark-theme)
 
 ## Planned features
 #### Text chat
