@@ -16,9 +16,10 @@ A self-hostable, federated, and encrypted Snapchat alternative. The app will be 
  - either a custom backend or [ActivityPub](https://activitypub.rocks/) if I decide to "officially" federate
  - [Parse](https://parseplatform.org/) application stack
  - IF ads are encorporated, (which will always be fair and optional in some way), [Carbon](https://www.carbonads.net/) looks the best to me. options for ad models include:
-   - free ad-supported model with donation-based add-free version on play store (freemium) with ad-free F-Droid app
+   - free ad-supported model with donation-based ad-free version on play store (freemium) with ad-free F-Droid app
    - opt-in ads (ads off by default, can turn on to support project)
    - "pro" features (such as black-theme in addition to the free dark-theme)
+   - if any revenue is actually made, it would be nice to give some percent to supporting projects (Undras, iconmonstr, Parse, etc)
 
 ## Planned features
 #### Text chat
