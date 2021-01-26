@@ -28,9 +28,11 @@ A self-hostable, federated, and encrypted Snapchat alternative. The app will be 
  - file uploads (images, maybe documents)
  - delete after x time
  - sending/send/viewed visual
+ - picture editing (markers and such, maybe filters)
 
 #### Picture chats
  - picture chats
+ - picture editing (markers and such, maybe filters)
  - content warnings (nsfw, custom?)
  - show for x time
  - replays
