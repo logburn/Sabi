@@ -119,3 +119,9 @@ A self-hostable, federated, and encrypted Snapchat alternative. The app will be 
   - online status (green, yellow, white)
   - account backup/moving (online and local)
   - send to multiple people
+  
+#### ...
+ - ...
+
+#### 2.0
+ - Matrix encryption implemented
